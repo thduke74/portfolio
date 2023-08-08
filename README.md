@@ -9,7 +9,8 @@
 ### My name is Christian Vega and I'm an upcoming UC Berkeley freshmen. I am in Rausser College of Natural Resources majoring in Plant Biology and Genetics. 
 
 
-# My Socials: 
+# ![image](https://github.com/thduke74/portfolio/assets/141671888/3e7cbd6f-c9f8-4707-888f-47c58e04682c)
+My Socials: 
 
 ### Instagram: @christian_a_vega
 ### email: christianvega@berkeley.edu
