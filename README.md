@@ -1,7 +1,7 @@
 
 
 
-<img src= '![IMG_0026](https://github.com/thduke74/portfolio/assets/141671888/7975fa5d-470b-4b06-95ec-9a580fca821c)' width=100>
+<img src= '![IMG_0026](https://github.com/thduke74/portfolio/assets/141671888/7975fa5d-470b-4b06-95ec-9a580fca821c)' width=400>
 
 
 
