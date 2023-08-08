@@ -3,7 +3,7 @@
 
 
 
-##My Socials: 
+## My Socials: 
 
-#Instagram: christian_a_vega
-#email: christianvega@berkeley.edu
+# Instagram: christian_a_vega
+# email: christianvega@berkeley.edu
