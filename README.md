@@ -1,4 +1,5 @@
-![IMG_0026](https://github.com/thduke74/portfolio/assets/141671888/d6cd5c8b-81b9-4363-8fe9-aa6ecb8315f7)
+![IMG_0026](https://github.com/thduke74/portfolio/assets/141671888/9bee9879-8171-4e3d-96ee-bedeca6499f6)
+
 
 
 
