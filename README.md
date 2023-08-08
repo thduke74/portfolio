@@ -5,5 +5,5 @@
 
 # My Socials: 
 
-### Instagram: christian_a_vega
+### Instagram: @christian_a_vega
 ### email: christianvega@berkeley.edu
